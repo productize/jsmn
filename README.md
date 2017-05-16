@@ -4,6 +4,15 @@ JSMN for mbed
 This is an adaption of Serge Zaitsev's jsmn to work directly on the
 [mbed-os platform][mbed-os] with the [mbed cli][mbed-cli].
 
+Installation
+------------
+
+You can add this library to your project using the [mbed-cli][mbed-cli]:
+
+```
+mbed add https://github.com/productize/mbed-jsmn.git
+```
+
 [mbed-os]:  https://github.com/ARMmbed/mbed-os
 [mbed-cli]: https://github.com/ARMmbed/mbed-cli
 
