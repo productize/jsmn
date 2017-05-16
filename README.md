@@ -83,22 +83,6 @@ object hierarchy.
 This approach provides enough information for parsing any JSON data and makes
 it possible to use zero-copy techniques.
 
-Install
--------
-
-To clone the repository you should have Git installed. Just run:
-
-	$ git clone https://github.com/zserge/jsmn
-
-Repository layout is simple: jsmn.c and jsmn.h are library files, tests are in
-the jsmn\_test.c, you will also find README, LICENSE and Makefile files inside.
-
-To build the library, run `make`. It is also recommended to run `make test`.
-Let me know, if some tests fail.
-
-If build was successful, you should get a `libjsmn.a` library.
-The header file you should include is called `"jsmn.h"`.
-
 API
 ---
 
