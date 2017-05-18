@@ -10,7 +10,7 @@ Installation
 You can add this library to your project using the [mbed-cli][mbed-cli]:
 
 ```
-mbed add https://github.com/productize/mbed-jsmn.git
+mbed add https://github.com/productize/mbed-jsmn
 ```
 
 [mbed-os]:  https://github.com/ARMmbed/mbed-os
